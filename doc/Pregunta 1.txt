@@ -1,0 +1,2 @@
+Se parecen: Ambos tienen un main donde se inicializa el thread y se activa 
+Se diferencian, en que mientras en "extends" se hace como si se creara un objeto ya que se utiliza como si fuera una herencia, mientras que en "runnable" utiliza la clase Thread directamente para crearlo 
